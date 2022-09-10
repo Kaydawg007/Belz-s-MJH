@@ -555,6 +555,9 @@ div.sm {
     width: 100%;
   }
 
+  body #first-page #text-part #details #hyperlink .lm { 
+  width:70px;
+  }
   #hidden-menu {
     display: none;
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
